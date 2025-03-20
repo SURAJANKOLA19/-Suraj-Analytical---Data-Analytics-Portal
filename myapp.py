@@ -2,6 +2,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+# Set page title
 st.set_page_config(
     page_title="Suraj Analytical"
 )
